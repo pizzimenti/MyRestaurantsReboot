@@ -1,4 +1,4 @@
-package com.epicodus.myrestaurantsreboot;
+package com.epicodus.myrestaurantsreboot.models;
 
 import java.util.ArrayList;
 
